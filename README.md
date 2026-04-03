@@ -50,8 +50,7 @@ GEMINI_API_KEY = "your_api_key_here"
 
 python main.py
 
-Optional UI:
-streamlit run app.py
+
 
 ## ⚠️ Notes
 
@@ -69,4 +68,4 @@ streamlit run app.py
 ## 👨‍💻 Author
 
 Ayush  
-AI Automation / Data Science
+AI Engineer / Ml Engineer
