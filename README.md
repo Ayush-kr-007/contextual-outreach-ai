@@ -28,8 +28,8 @@ Contains:
 ## 🛠️ Setup
 
 1. Clone the repo
-git clone https://github.com/your-username/ai-outreach-tool.git
-cd ai-outreach-tool
+git clone [https://github.com/your-username/ai-outreach-tool.git
+cd ai-outreach-tool](https://github.com/Ayush-kr-007/contextual-outreach-ai)
 
 2. Create virtual environment
 python -m venv myenv
